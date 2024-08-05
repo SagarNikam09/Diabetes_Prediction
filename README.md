@@ -60,6 +60,8 @@ python application.py
 
 The front-end of the application is built using HTML and CSS. The HTML file contains the structure of the web form, and the CSS file styles the form elements to make the application visually appealing.
 
+![Front-End](Output_.png)
+
 ## Back-End
 
 The back-end of the application is built using Flask. It handles incoming HTTP requests, processes the input data, uses the trained logistic regression model to make predictions, and returns the results to the user.
